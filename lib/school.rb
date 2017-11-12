@@ -28,6 +28,7 @@ attr_accessor :roster
       new_h[key] = value.sort
     end
    new_h
+ end
 
 
 end
