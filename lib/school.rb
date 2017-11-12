@@ -5,7 +5,7 @@ attr_reader :roster
 
 
   def initialize(new)
-    @new = new
+    @new = new.length
     roster = []
   end
 
