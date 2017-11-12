@@ -2,11 +2,11 @@
 
 class School
 
-  def intialize(name)
-    @name = name
+  def intialize()
+    @roster = roster
     roster = []
   end
 
-  
+
 
 end
