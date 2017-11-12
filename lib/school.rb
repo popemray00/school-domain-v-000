@@ -9,7 +9,7 @@ attr_accessor :roster
   end
 
   def roster
-    @roster
+    @roster.length
   end
 
 
