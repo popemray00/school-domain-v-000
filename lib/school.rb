@@ -11,6 +11,6 @@ attr_accessor :roster
   def roster
     @roster
   end
-    
+
 
 end
