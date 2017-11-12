@@ -3,9 +3,8 @@
 class School
 
 
-  def intialize(roster)
-    @roster = roster
-    roster = []
+  def intialize(name)
+    @name = name
   end
 
 
