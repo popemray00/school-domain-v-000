@@ -3,7 +3,7 @@
 class School
 
   def intialize(name)
-    @name = name.new
+    @name = name
   end
 
   def roster
