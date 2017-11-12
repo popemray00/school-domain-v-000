@@ -6,9 +6,9 @@ class School
 
   def intialize(roster)
     @roster = roster
-    ROSTER << roster
   end
 
+    ROSTER = []
 
 
 end
