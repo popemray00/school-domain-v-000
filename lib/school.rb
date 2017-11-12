@@ -4,12 +4,12 @@ class School
 attr_accessor :roster
 
 
-  def initialize(new)
-    @new = new
+  def initialize(name)
+    @name = name
   end
 
   def roster
-    @roster = roster.length
+    @roster
   end
 
 
