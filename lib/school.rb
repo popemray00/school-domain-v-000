@@ -2,7 +2,7 @@
 
 class School
 
-  def intialize(roster)
+  def initialize(roster)
     @roster = roster
     roster = []
   end
